@@ -12,4 +12,4 @@ In total: my model contains two hidden layers with 8 neurons each. For the input
 Unfortunately, I was only able to achieve about a 71% accuracy for the model despite changing several aspect. I increased the number of epochs to train the data, expanded the number of layers and neurons, and changed the activation types.
 
 Summary:
-Overall, there does seem to be a way to predict success for an applicant, but my model as it currently stands will only be accurate 71% of the time. With more data or perhaps a different model, I could predict with better accuracy.
+Overall, there does seem to be a way to predict success for an applicant, but my model as it currently stands will only be accurate 71% of the time. With more data or perhaps a different model such as random forest, I could predict with better accuracy.
